@@ -52,5 +52,3 @@ paramount_titles['service'] = 'paramount'
 
 all_titles = pd.concat((paramount_titles, netflix_titles, hbo_titles, disney_titles, apple_titles, amazon_titles))
 
-all_titles.columns
-
